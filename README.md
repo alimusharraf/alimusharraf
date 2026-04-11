@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Musharraf Ali! 🚀</h1>
-  <h3>Machine Learning Engineer | B.E. CSE Student | AI Enthusiast</h3>
+  <h3>Engineer | B.E. CSE Student | AI Enthusiast</h3>
   <p><em>Passionate about solving real-world problems using scalable AI systems.</em></p>
 </div>
 
