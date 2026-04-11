@@ -8,7 +8,7 @@
 
 ### 🌌 About Me
 * 🎓 **Education:** 
-  * Pursuing a Bachelor of Engineering (CSE) at Visvesvaraya Technological University (VTU) (2023 – Present).
+  * Pursuing a Bachelor of Engineering (CSE) at Visvesvaraya Technological University (VTU) (2023 – 2027).
   * Completed Higher Secondary (12th) at National Infotech Higher Secondary School with 91.5% (2021 – 2023).
 * 💻 Experienced in building end-to-end ML pipelines, including data preprocessing, feature engineering, model training, and evaluation.
 * 🌟 Strong foundations in **supervised and unsupervised learning, deep learning, and Generative AI**.
