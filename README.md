@@ -74,7 +74,7 @@
 * **ALTRIX:** An Insider Threat Detection System utilizing Isolation Forest and XGBoost. Features real-time monitoring dashboards for risk visualization.
 * **AcadeScore:** A Random Forest regression model to predict student performance based on lifestyle factors, evaluated using MAE, MSE, and R² metrics.
 * **Chromify:** A CNN-based Deep Learning model for automatic image colorization using LAB color space.
-* **Phishing Website Detection:** Classification models using XGBoost and Random Forest to detect phishing websites through URL-based features.
+* **PhishGuard:** Phishing Website Detection Classification models using XGBoost and Random Forest to detect phishing websites through URL-based features.
 
 ---
 
